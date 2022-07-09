@@ -1,0 +1,9 @@
+name: GameTables
+version: '${version}'
+main: de.votuucraft.gametables.GameTables
+api-version: 1.19
+authors: [ votuucraft ]
+
+commands:
+
+  gametable:
